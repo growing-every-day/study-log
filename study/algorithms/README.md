@@ -22,6 +22,21 @@
 
 ## BFS & DFS
 
+<details>
+<summary> 문제 </summary>
+
+- [유기농 배추](https://www.acmicpc.net/problem/1012)
+  - [슬찬](bfs_dfs/baekjoon_1012/chan_1012.py)
+  - [장규]()
+  - [연희]()
+  - [경석]()
+
+- [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)
+  - [슬찬](bfs_dfs/leet_2115/chan_2115.py)
+  - [장규]()
+  - [연희]()
+  - [경석]()
+  - 
 ## DP
 
 ## GREEDY
