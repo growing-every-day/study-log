@@ -25,3 +25,4 @@
 - 장규: [깃허브](https://github.com/MinKevin), [블로그](https://actually94.tistory.com/)
 - 연희: [깃허브](https://github.com/lyh951212), [블로그](https://rooftopservant.tistory.com/)
 - 경석: [깃허브](https://github.com/moon-July5), [블로그](https://velog.io/@moon-july5)
+- 인후: [깃허브](https://github.com/itstimi-XD), [블로그](https://wealthy-raptor-d2f.notion.site/Developement-055cc7ea17cc4b8bb9e4473dae473bfe)
