@@ -35,3 +35,9 @@
 ### 참고자료
 
 - [IT 기술면접 이건 꼭 알고 가자](https://garden1500.tistory.com/11)
+- [Technical Interview Guidelines for Beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+- [Tech Interview for developer](https://gyoogle.dev/blog/)
+- [Brave Tech Interview](https://github.com/brave-people/brave-tech-interview)
+- [TechnicalNote](https://github.com/jobhope/TechnicalNote)
+- [신입 개발자 기술면접](https://trello.com/b/BWtpfywH/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91)
+- [Tech Interview](https://github.com/WeareSoft/tech-interview)
