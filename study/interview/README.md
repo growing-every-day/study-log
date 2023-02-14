@@ -29,7 +29,7 @@
 
 ## 알고리즘 & 자료구조
 
-- 정렬종류 , 퀵소트 설명 ( 추가적인 손코딩 ) 
+- 정렬종류 , 퀵소트 설명 ( 추가적인 손코딩 )
 - 맵 vs 해쉬맵 / 리스트 vs 배열(어레이) /스택 vs큐 차이
 
 ### 참고자료
@@ -41,3 +41,5 @@
 - [TechnicalNote](https://github.com/jobhope/TechnicalNote)
 - [신입 개발자 기술면접](https://trello.com/b/BWtpfywH/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91)
 - [Tech Interview](https://github.com/WeareSoft/tech-interview)
+- [자바 백엔드 기술 면접 대비하기 1편](https://f-lab.kr/blog/java-backend-interview-1)
+- [자바 백엔드 기술 면접 대비하기 2편](https://f-lab.kr/blog/java-backend-interview-2)
