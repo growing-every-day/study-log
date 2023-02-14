@@ -40,7 +40,7 @@
   - [경석](bfs_dfs/leet_2115/moon_2115.java)
 
 - [불!](https://www.acmicpc.net/problem/4179)
-  - [슬찬]()
+  - [슬찬](bfs_dfs/baekjoon_4179/chan_4179.py)
   - [장규]()
   - [연희]()
   - [경석]()
