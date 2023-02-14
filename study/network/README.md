@@ -2,7 +2,7 @@
 
 ## IT 엔지니어를 위한 네트워크 입문
 
-[IT 엔지니어를 위한 네트워크 입문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=254155831) 를 읽으면서 중요하다고 생각되는 부분을 질문&답변 형식으로 정리해두는 곳입니다.
+[IT 엔지니어를 위한 네트워크 입문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=254155831)을 읽으면서 중요하다고 생각되는 부분을 질문&답변 형식으로 정리해두는 곳입니다.
 
 - [1장 네트워크 시작하기](qna/ch01.md)
 - [2장 네트워크 연결과 구성 요소](qna/ch02.md)
