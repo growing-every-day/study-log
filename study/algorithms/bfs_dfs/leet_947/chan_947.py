@@ -1,5 +1,8 @@
 from collections import defaultdict, Counter
-# UnionFind class
+from typing import List
+
+# UnionFind class 
+# https://leetcode.com/explore/learn/card/graph/618/disjoint-set/3878/
 class UnionFind:
     def __init__(self, size):
         self.root = [i for i in range(size)]
