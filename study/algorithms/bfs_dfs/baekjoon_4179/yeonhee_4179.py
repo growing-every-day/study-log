@@ -22,16 +22,12 @@ def bfs():
 
     while j_queue:
         (x, y) = j_queue.popleft()
-
-        if x < 0 or x >= R or y <0 or y>=C:
-            return j_visited[x][y]+1
-
         for i in range(4):
             dx = x + dr[i]
             dy = y + dc[i]
 
             if dx < 0 or dx >= R or dy <0 or dy>=C:
-                return j_visited[x][y]+1
+                return j_visited[x][y]
 
             if j_visited[dx][dy] != 0 or maze[dx][dy] == '#' or \
                 (f_visited[dx][dy] != 0 and f_visited[dx][dy] <= j_visited[x][y]+1):    # important code
@@ -66,9 +62,11 @@ if "__main__" == __name__:
         for stri, str in enumerate(input_str):
             # 지훈이 초기 위치
             if str == "J":
+                j_visited[r_idx][stri] = 1
                 j_queue.append((r_idx, stri))
             # 불 초기 위치
             if str == "F":
+                f_visited[r_idx][stri] = 1
                 f_queue.append((r_idx, stri))    
 
             maze[r_idx][stri] = str
