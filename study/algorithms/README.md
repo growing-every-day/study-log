@@ -2,9 +2,35 @@
 
 백준과 Leetcode를 통해 알고리즘 문제를 풀고 공부합니다.
 
-- 문제 선정 참고
+## 참고자료 
   - [alphabet150](https://alphabet150.com/)
   - [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
+
+## 백준 랭크
+**황슬찬**
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seulchan)](https://solved.ac/seulchan)
+
+**민장규**
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alswkdrb1)](https://solved.ac/alswkdrb1)
+
+**이연희**
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyh951212)](https://solved.ac/lyh951212)
+
+**문경석**
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mks0705)](https://solved.ac/mks0705)
+
+**김인후**
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=itstimi)](https://solved.ac/itstimi)
 
 ## Arrays
 
