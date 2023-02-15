@@ -7,25 +7,26 @@
   - [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
 
 ## 백준 랭크
-**황슬찬**
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seulchan)](https://solved.ac/seulchan)
 
 **민장규**
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alswkdrb1)](https://solved.ac/alswkdrb1)
 
+**문경석**
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mks0705)](https://solved.ac/mks0705)
+
 **이연희**
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyh951212)](https://solved.ac/lyh951212)
 
-**문경석**
+**황슬찬**
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mks0705)](https://solved.ac/mks0705)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seulchan)](https://solved.ac/seulchan)
 
 **김인후**
 
