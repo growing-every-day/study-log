@@ -8,15 +8,15 @@
 
 ## 백준 랭크
 
-**민장규**
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alswkdrb1)](https://solved.ac/alswkdrb1)
-
 **문경석**
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mks0705)](https://solved.ac/mks0705)
+
+**민장규**
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alswkdrb1)](https://solved.ac/alswkdrb1)
 
 **이연희**
 
