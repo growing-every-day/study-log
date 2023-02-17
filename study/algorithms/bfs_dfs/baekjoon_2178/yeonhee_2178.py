@@ -2,6 +2,7 @@ import sys
 from collections import deque
 input = sys.stdin.readline
 
+# 	34176kb	92ms
 def bfs(r, c):
     q = deque()
     q.append((r,c))
