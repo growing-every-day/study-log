@@ -58,8 +58,6 @@
   - [연희](bfs_dfs/baekjoon_1012/yeonhee_1012.py)
   - [경석](bfs_dfs/baekjoon_1012/moon_1012.java)
 
-
-
 - [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)
   - [슬찬](bfs_dfs/leet_2115/chan_2115.py)
   - [장규](bfs_dfs/leet_2115/min_2115.cpp)
@@ -78,6 +76,12 @@
   - [연희]()
   - [경석]()
 
+- [미로 탐색](https://www.acmicpc.net/problem/2178)
+  - [슬찬](bfs_dfs/baekjoon_2178/chan_2178.py)
+  - [장규]()
+  - [연희]()
+  - [경석]()
+</details>
 
 ## DP
 
