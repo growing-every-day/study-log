@@ -17,8 +17,8 @@ def finbonacci(n):
 if "__main__" == __name__:
     tc = int(input())
 
-    # dp리스트는 튜플로 이루어져있음
-    # (a,b) a 위치에는 0이 출력되는 갯수
+    # dp리스트
+    # [a,b] a 위치에는 0이 출력되는 갯수
     #       b 위치에는 1이 출력되는 갯수
     dp = [[-1,-1] for i in range(41)]
     for _ in range(tc):
