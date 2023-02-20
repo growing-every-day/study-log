@@ -81,9 +81,32 @@
   - [장규]()
   - [연희]()
   - [경석]()
+
+- [그림](https://www.acmicpc.net/problem/1926)
+  - [슬찬](bfs_dfs/baekjoon_1926/chan_1926.py)
+  - [장규]()
+  - [연희]()
+  - [경석]()
 </details>
 
 ## DP
+
+<details>
+<summary> 문제 </summary>
+
+- [피보나치 함수](https://www.acmicpc.net/problem/1003)
+  - [슬찬](dp/baekjoon_1003/chan_1003.java)
+  - [장규]()
+  - [연희]()
+  - [경석]()
+
+- [정수 삼각형](https://www.acmicpc.net/problem/1932)
+  - [슬찬](dp/baekjoon_1932/chan_1932.java)
+  - [장규]()
+  - [연희]()
+  - [경석]()
+
+</details>
 
 ## GREEDY
 
