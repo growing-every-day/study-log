@@ -5,15 +5,15 @@
 ## 💻 진행중인 스터디
 
 - [🧙‍♀️ 알고리즘](/study/algorithms/README.md)
-- [🏃‍♀️ 네트워크](/study/network/README.md)
+- [🔋 데이터베이스](study/database/README.md)
 
 ## 완료된 스터디
 
 - [🖥️ 컴퓨터구조&운영체제](/study/os/README.md)
+- [🏃‍♀️ 네트워크](/study/network/README.md)
 
 ## 계획중인 스터디
 
-- [🔋 데이터베이스](study/database/README.md)
 - [📚 기술면접](study/interview/README.md)
 
 ## 👮‍♀️ 규칙
