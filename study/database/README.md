@@ -2,10 +2,7 @@
 
 [한 번에 끝내는 컴퓨터 공학 전공 필수 & 인공지능 심화](https://fastcampus.co.kr/dev_online_computer) 내에 있는 데이터베이스 강의를 보면서 중요하다고 생각되는 부분을 질문&답변 형식으로 정리해두는 곳입니다.
 
-
-- 1장 데이터베이스 기본 개념
-  - [질문&답변](qna/ch01.md)
-  - [요약 정리](https://chan-chan.notion.site/64198d6dc81a422e816b004b888aa78e)
+- [1장 데이터베이스 기본](qna/ch01.md)
 - [2장 관계형 데이터 모델](qna/ch02.md)
 - [3장 SQL 데이터베이스 언어](qna/ch03.md)
 - [4장 SQL 심화](qna/ch04.md)
