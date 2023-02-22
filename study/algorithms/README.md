@@ -106,6 +106,19 @@
   - [연희]()
   - [경석]()
 
+- [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
+  - [슬찬](dp/baekjoon_11053/chan_11053.java)
+  - [장규]()
+  - [연희]()
+  - [경석]()
+
+- [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)
+  - [슬찬](dp/baekjoon_14002/chan_14002.java)
+  - [장규]()
+  - [연희]()
+  - [경석]()
+
+
 </details>
 
 ## GREEDY
