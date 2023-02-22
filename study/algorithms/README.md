@@ -83,7 +83,7 @@
   - [경석]()
 
 - [그림](https://www.acmicpc.net/problem/1926)
-  - [슬찬](bfs_dfs/baekjoon_1926/chan_1926.py)
+  - [슬찬]()
   - [장규]()
   - [연희]()
   - [경석]()
@@ -95,29 +95,28 @@
 <summary> 문제 </summary>
 
 - [피보나치 함수](https://www.acmicpc.net/problem/1003)
-  - [슬찬](dp/baekjoon_1003/chan_1003.java)
+  - [슬찬](dp/baekjoon_1003/chan_1003.py)
   - [장규]()
   - [연희]()
   - [경석]()
 
 - [정수 삼각형](https://www.acmicpc.net/problem/1932)
-  - [슬찬](dp/baekjoon_1932/chan_1932.java)
+  - [슬찬](dp/baekjoon_1932/chan_1932.py)
   - [장규]()
   - [연희]()
   - [경석]()
 
 - [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
-  - [슬찬](dp/baekjoon_11053/chan_11053.java)
+  - [슬찬](dp/baekjoon_11053/chan_11053.py)
   - [장규]()
   - [연희]()
   - [경석]()
 
 - [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)
-  - [슬찬](dp/baekjoon_14002/chan_14002.java)
+  - [슬찬](dp/baekjoon_14002/chan_14002.py)
   - [장규]()
   - [연희]()
   - [경석]()
-
 
 </details>
 
