@@ -1,18 +1,17 @@
 ## https://www.acmicpc.net/problem/2512
 
+## 인풋 받아옴
 N = int(input())
 budgets = list(map(int, input().split()))
 M = int(input())
 
+## 바이너리 서치 
 def binary_search(start, end):
     while start <= end:
-        mid = (start + end) // 2
+        mid = (start + end) // 2 ## 상한액
         total = 0
         for budget in budgets:
-            if budget > mid:
-                total += mid
-            else:
-                total += budget
+            total += min(budget, mid)
         if total > M:
             end = mid - 1
         else:
