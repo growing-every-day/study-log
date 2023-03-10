@@ -6,7 +6,7 @@ import java.util.StringTokenizer;
  * 메모리 : 17324 KB
  * 시간 : 140 ms
  * */
-public class MainTest {
+public class moon_12869 {
     // 뮤탈리스크의 공격 패턴
     private static int[][] pattern = {  {-9, -3, -1},{-9, -1, -3},
                                         {-3, -9, -1},{-3, -1, -9},
